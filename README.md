@@ -2,7 +2,7 @@
 # JavaScript Immediately Invoked Function Expressions
 
 
-[![CircleCI](https://circleci.com/gh/mwaz/iife-javascript.svg?style=svg)](https://circleci.com/gh/mwaz/iife-javascript)
+[![CircleCI](https://circleci.com/gh/CIRCLECI-GWP/iife-javascript.svg?style=svg)](https://circleci.com/gh/CIRCLECI-GWP/iife-javascript)
 
 <p align="center"><img src="https://avatars3.githubusercontent.com/u/59034516"></p>
 
@@ -14,7 +14,7 @@ An Application for showing how to configure multiple CircleCI orbs on CI
 run the following command on your terminal to clone the repository:
 
 ```bash
-git clone git@github.com:mwaz/iife-javascript.git
+git clone https://github.com/CIRCLECI-GWP/iife-Javascript.git
 
 cd iife-javascript
 ```
