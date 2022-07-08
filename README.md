@@ -2,7 +2,7 @@
 # JavaScript Immediately Invoked Function Expressions
 
 
-[![CircleCI](https://circleci.com/gh/CIRCLECI-GWP/iife-javascript.svg?style=svg)](https://circleci.com/gh/CIRCLECI-GWP/iife-javascript)
+[![CircleCI](https://circleci.com/gh/CIRCLECI-GWP/iife-Javascript.svg?style=svg)](https://circleci.com/gh/CIRCLECI-GWP/iife-Javascript)
 
 <p align="center"><img src="https://avatars3.githubusercontent.com/u/59034516"></p>
 
