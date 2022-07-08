@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./index.css" />
+    <script
+      src="https://code.jquery.com/jquery-3.4.1.slim.js"
+      integrity="sha256-BTlTdQO9/fascB1drekrDVkaKd9PkwBymMlHOiG+qLI="
+      crossorigin="anonymous"
+    ></script>
+    <script src="./app.js"></script>
+    <title>Javascript IIFE</title>
+  </head>
+  <body>
+    <div id="jquery-counter">
+      <div>Click the button below to increment count</div>
+      <button id="increment">Count</button>
+    </div>
+    <script>
+    (function ($){
+      let counter = 1;
+      $("#increment").click(function () {
+        $(this).text("Number of clicks: " + counter++);
+      })
+    })(jQuery)
+    </script>
+  </body>
+</html>
